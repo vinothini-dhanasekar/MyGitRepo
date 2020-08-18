@@ -38,3 +38,15 @@ class Employee
 	}
 	
 	/////////this is the program for employee details.......................................main method in another java file........................../////////////
+	
+	
+	
+	public void DisplayEmployee()
+        {
+            Console.WriteLine("The name of employee is: "+ name);
+            Console.WriteLine("The salary of employee is: "+salary);
+            Console.WriteLine("The date of joining of employee is: "+joiningDate);
+        }
+    }
+	}
+	
