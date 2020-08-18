@@ -36,3 +36,5 @@ class Employee
         }
     }
 	}
+	
+	/////////this is the program for employee details.......................................main method in another java file........................../////////////
